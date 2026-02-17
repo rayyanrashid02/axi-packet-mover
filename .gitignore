@@ -1,0 +1,26 @@
+# ===== Simulation outputs =====
+*.vcd
+*.vvp
+*.fst
+*.lxt
+*.log
+*.out
+*.sim
+*.wlf
+
+# Dump folders
+dumps/
+sims/
+build/
+work/
+obj_dir/
+
+# GTKWave save files
+*.gtkw
+*.sav
+
+# OS / editor junk
+.vscode/
+.DS_Store
+*.swp
+*.swo
